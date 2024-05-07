@@ -1,0 +1,14 @@
+C:\Users\Lenovo-5558\source\repos\Tasklar\Tasklar\bin\Debug\net8.0\Tasklar.exe
+C:\Users\Lenovo-5558\source\repos\Tasklar\Tasklar\bin\Debug\net8.0\Tasklar.deps.json
+C:\Users\Lenovo-5558\source\repos\Tasklar\Tasklar\bin\Debug\net8.0\Tasklar.runtimeconfig.json
+C:\Users\Lenovo-5558\source\repos\Tasklar\Tasklar\bin\Debug\net8.0\Tasklar.dll
+C:\Users\Lenovo-5558\source\repos\Tasklar\Tasklar\bin\Debug\net8.0\Tasklar.pdb
+C:\Users\Lenovo-5558\source\repos\Tasklar\Tasklar\obj\Debug\net8.0\Tasklar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo-5558\source\repos\Tasklar\Tasklar\obj\Debug\net8.0\Tasklar.AssemblyInfoInputs.cache
+C:\Users\Lenovo-5558\source\repos\Tasklar\Tasklar\obj\Debug\net8.0\Tasklar.AssemblyInfo.cs
+C:\Users\Lenovo-5558\source\repos\Tasklar\Tasklar\obj\Debug\net8.0\Tasklar.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-5558\source\repos\Tasklar\Tasklar\obj\Debug\net8.0\Tasklar.dll
+C:\Users\Lenovo-5558\source\repos\Tasklar\Tasklar\obj\Debug\net8.0\refint\Tasklar.dll
+C:\Users\Lenovo-5558\source\repos\Tasklar\Tasklar\obj\Debug\net8.0\Tasklar.pdb
+C:\Users\Lenovo-5558\source\repos\Tasklar\Tasklar\obj\Debug\net8.0\Tasklar.genruntimeconfig.cache
+C:\Users\Lenovo-5558\source\repos\Tasklar\Tasklar\obj\Debug\net8.0\ref\Tasklar.dll
